@@ -25,7 +25,7 @@ Based on code from
 # Ways to install
 #
 # (Debian)
-# sudo apt-get install 
+# sudo apt-get install libgraphics-color-perl
 # 
 # (Perl cpanminus)
 # sudo cpan App::cpanminus
@@ -102,7 +102,7 @@ void setup()
    *   Euclidean distance from a point chosen as the center ({2,2,2}).  This is similar to a spherical
    *   surface mapping.
    * - Once we have our  grid in the 5x5x5 space, use it to interpolate to a 
-   *   4x4x4 array that matches the locations of the 
+   *   4x4x4 array that matches the locations of the LED grid points
    *  
    */
   
